@@ -1,8 +1,8 @@
-# *folio
-A simple theme for showcasing your work, emphasis on whitespace, transparency, and helvetica. 
+# *Moe-lio
+An update to Lia Bogoev's "<a href="http://liabogoev.com/-folio">-folio</a>" theme. 
 
 
-<a href="http://liabogoev.com/-folio">Live Demo</a>
+<a href="https://ericmoe.github.io/">Live Demo</a>
 
 <hr/>
 
