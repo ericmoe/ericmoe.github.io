@@ -297,6 +297,7 @@ pre {
 /** 
  * Portfolio grid **********************************************************
 */
+/* Three Column */
 @media screen and (min-width: 601px) {
   .clearfix:before,
   .clearfix:after {
@@ -423,7 +424,7 @@ pre {
     width: 500px;
     height: auto;
     position: relative;
-    left: -5%;
+    left: -10%;
     top: -5%; }
 
   .thumbnail a {

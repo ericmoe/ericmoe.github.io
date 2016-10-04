@@ -171,6 +171,8 @@ line-height: 1;
 // Nicolas Gallagher's micro clearfix hack
 // http://nicolasgallagher.com/micro-clearfix-hack/
 
+/* Three Column */
+
 @media screen and (min-width: 601px) {
     
 .clearfix:before,
@@ -306,7 +308,7 @@ overflow: hidden;
 width: 500px;
 height: auto;
 position: relative;
-left: -5%;
+left: -10%;
 top: -5%;
 }
 .thumbnail a{
