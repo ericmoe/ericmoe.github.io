@@ -271,25 +271,13 @@ pre {
   font-size: 42px;
   letter-spacing: -1px;
   line-height: 1; }
-  @media screen and (max-width: 800px) {
-    .post-title {
-      font-size: 36px; } }
 
 .post-content h2 {
   font-size: 42px; }
-  @media screen and (max-width: 800px) {
-    .post-content h2 {
-      font-size: 28px; } }
 .post-content h3 {
   font-size: 30px; }
-  @media screen and (max-width: 800px) {
-    .post-content h3 {
-      font-size: 22px; } }
 .post-content h4 {
   font-size: 20px; }
-  @media screen and (max-width: 800px) {
-    .post-content h4 {
-      font-size: 18px; } }
 
 .post-meta {
   font-size: 14px;
@@ -305,14 +293,11 @@ pre {
   font-size: 24px;
   letter-spacing: -1px;
   line-height: 1; }
-  @media screen and (max-width: 800px) {
-    .poem-title {
-      font-size: 16px; } }
 
 /** 
  * Portfolio grid **********************************************************
 */
-@media screen and (min-width: 481px) {
+@media screen and (min-width: 601px) {
   .clearfix:before,
   .clearfix:after {
     content: " ";
@@ -361,6 +346,57 @@ pre {
 
   .thumbnail a:hover span {
     display: block; } }
+/* Two Column */
+@media screen and (max-width: 600px) {
+  .clearfix:before,
+  .clearfix:after {
+    content: " ";
+    display: table; }
+
+  .clearfix:after {
+    clear: both; }
+
+  .project {
+    width: 50%;
+    height: 250px;
+    float: left;
+    vertical-align: middle;
+    box-sizing: border-box;
+    padding: 10px; }
+
+  .thumbnail {
+    width: 100%;
+    height: 230px;
+    overflow: hidden; }
+
+  .thumbnail img {
+    width: 500px;
+    height: auto;
+    position: relative;
+    left: -25%;
+    top: -5%; }
+
+  .thumbnail a {
+    float: left;
+    position: relative;
+    width: 100%;
+    height: 230px; }
+
+  .thumbnail a span {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.4);
+    color: #ddd;
+    padding: 40px;
+    text-align: center; }
+
+  .thumbnail a:hover span {
+    display: block; } }
+/* One Column */
 @media screen and (max-width: 480px) {
   .clearfix:before,
   .clearfix:after {
@@ -387,7 +423,7 @@ pre {
     width: 500px;
     height: auto;
     position: relative;
-    left: -25%;
+    left: -5%;
     top: -5%; }
 
   .thumbnail a {
