@@ -30,14 +30,20 @@ $blue: #2698BA;
 $green: #11D68B;
 $lime_green: #B7D12A;
 $purple: #B509AC;
+$navy: #3E69AA;
+$navy_peony: #223A5E;
+$off_white: #f5f6f6;
+$text_color1: #666;
+$text_color2: #424242;
+
 
 
 $grey-color-dark: #333;   /* footer */
 $grey-color-light: #ddd;  /* navigation bar border */
-$text-color:     #666;
+$text-color:     $text_color1;
 
 /* Set theme color *************************/
-$theme-color:   $blue;
+$theme-color:   $navy;
 
 
 /************************************************************/
