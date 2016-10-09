@@ -6,8 +6,8 @@ permalink: /geomoetric/
 ---
 
 <div class="header-bar">
-  <h1>Eric Moe</h1>
-  <h2>Student | Designer</h2>
+ <h1>@<wbr>geo<wbr>moe<wbr>tric</h1>
+  <h2>aka Eric Moe</h2>
   <br/>
 </div>
 
