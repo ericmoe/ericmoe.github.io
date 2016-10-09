@@ -8,6 +8,10 @@ url:  # the base hostname & protocol for your site
 twitter_username: https://twitter.com/geomoetric
 github_username:  https://github.com/geomoetric
 
+# Owner/author information
+owner:
+  name: Eric Moe
+  
 # Build settings
 markdown: kramdown
 
