@@ -496,11 +496,13 @@ pre {
  * Misc
 **********************************************************
 */
-.badkern {
-  letter-spacing: -0.17em;
-  display: block;
-  margin: 10px; }
-
+/*
+.badkern { 
+    letter-spacing: -0.17em; 
+    display:block;
+    margin: 10px;
+}
+*/
 /**
  * Syntax highlighting styles
  */

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /archive/
-title: archive
+title: ARCHIVE
 description: A place to archive all posts.
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /blog/
-title: blog
+title: BLOG
 ---
 <ul class="post-list">
 

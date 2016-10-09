@@ -5,6 +5,8 @@ description: Various ways to reach Eric Moe
 permalink: /geomoetric/
 ---
 
+<!-- Throw a couple of <wbr> between the places you would like your username to break -->
+
 <div class="header-bar">
  <h1>@<wbr>geo<wbr>moe<wbr>tric</h1>
   <h2>aka Eric Moe</h2>
