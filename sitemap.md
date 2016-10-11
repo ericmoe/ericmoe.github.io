@@ -7,7 +7,7 @@ description:
 
 <ul class="post-list">
 {% for page in site.pages %}
-    {% unless page contains 'sitemap.md,404.html' %}
+    {% unless page contains 'sitemap.md' %}
         <!-- initial for loop content goes here-->
     <li>
         <h2><a class="poem-title" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h2>
