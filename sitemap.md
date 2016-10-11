@@ -2,11 +2,11 @@
 layout: page
 permalink: /sitemap/
 title: SITEMAP
-description: The map of the site
+description: 
 ---
 
 <ul class="post-list">
-{% for page in site.pages reversed %}
+{% for page in site.pages !=sitemap.md %}
     <li>
         <h2><a class="poem-title" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h2>
         <p class="post-meta">{{ page.date | date: '%B %-d, %Y — %H:%M' }}</p>
@@ -14,8 +14,3 @@ description: The map of the site
 {% endfor %}
 </ul>
 
-{% for page in site.pages %}
-          {% if page.title %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-          {% endif %}
-        {% endfor %}
