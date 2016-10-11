@@ -1,9 +1,8 @@
- ---
- layout: page
- permalink: /sitemap/
- title: SITEMAP
- description: 
- ---
+---
+layout: page
+permalink: /sitemap/
+title: SITEMAP
+---
   
 <ul class="post-list">
   {% for page in site.pages %}
