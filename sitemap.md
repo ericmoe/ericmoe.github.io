@@ -6,7 +6,7 @@ description:
 ---
 
 <ul class="post-list">
-{% for page in site.pages !=sitemap.md %}
+{% for page in site.pages %}
     {% unless page contains 'sitemap.md,404.html' %}
         <!-- initial for loop content goes here-->
     <li>
