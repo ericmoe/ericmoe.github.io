@@ -7,12 +7,12 @@ description:
 
 <ul class="post-list">
 {% for page in site.pages %}
-    {% unless page.sitemap %}
+     {% if page.sitemap == 'main' %}
         <!-- initial for loop content goes here-->
     <li>
-        <h2><a class="poem-title" href="{{ page.url | prepend: site.baseurl }}">{{ page.title | downcase }}</a></h2>
+        <h2><a class="poem-title" href="{{ page.url | prepend: site.baseurl }}">{{ page.title | capitalize }}</a></h2>
       <p class="post-meta">{{ page.description }}</p>
       </li>
-       {% endunless %}
+       {% endif %}
 {% endfor %}
 </ul>

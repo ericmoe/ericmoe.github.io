@@ -2,6 +2,8 @@
 layout: page
 permalink: /blog/
 title: BLOG
+description: Writings, WIPs, and smaller projects.
+sitemap: main
 ---
 <ul class="post-list">
 

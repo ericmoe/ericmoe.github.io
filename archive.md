@@ -2,7 +2,8 @@
 layout: page
 permalink: /archive/
 title: ARCHIVE
-description: A place to archive all posts.
+description: All posts ordered by date.
+sitemap: main
 ---
 
 

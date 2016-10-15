@@ -2,6 +2,8 @@
 layout: page
 title: ABOUT
 permalink: /about/
+description: All about Eric Moe.
+sitemap: main
 ---
 
 <img class="col one right" src="/img/prof_pic.jpg">

@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Geomoetric
-description: Various ways to reach Eric Moe
+description: Eric Moe's username and social media.
 permalink: /geomoetric/
+sitemap: main
 ---
 
 <!-- Throw a couple of <wbr> between the places you would like your username to break -->

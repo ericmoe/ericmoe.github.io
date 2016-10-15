@@ -2,6 +2,8 @@
 layout: page
 title: portfolio
 permalink: /portfolio/
+description: Eric Moe's design work.
+sitemap: main
 ---
 
 {% for project in site.portfolio %}
