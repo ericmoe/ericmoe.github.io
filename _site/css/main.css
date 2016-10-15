@@ -246,7 +246,7 @@ pre {
   position: fixed;
   left: 0px;
   bottom: 0px;
-  min-height: 56px;
+  max-height: 56px;
   width: 100%; }
 
 /**
