@@ -161,7 +161,7 @@ pre {
 
 .footer-nav {
   float: left;
-  line-height: 56px; }
+  line-height: 26px; }
 
 .footer a {
   color: #aaa;
@@ -176,7 +176,8 @@ pre {
     text-decoration: none; }
 
 .break {
-  padding-bottom: 56px; }
+  padding-bottom: 56px;
+  height: 100px; }
 
 /**
  * Site header   **********************************************************
@@ -239,18 +240,28 @@ pre {
     font-size: 25px; }
 
 /**
- * Site footer  **********************************************************
+ * Site footer 
+
+border-top: 1px solid $grey-color-dark;
+background-color: $grey-color-dark;
+color: #aaa;
+width:100%;
+min-height: 58px;
+position: absolute;
+left:0px;
+bottom:0px;
+
+**********************************************************
  */
 .site-footer {
   border-top: 1px solid #333;
   background-color: #333;
-  opacity: 0.75;
   padding: 2px;
   color: #aaa;
   position: fixed;
   left: 0px;
   bottom: 0px;
-  max-height: 56px;
+  height: 23px;
   width: 100%; }
 
 /**

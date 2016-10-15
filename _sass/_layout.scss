@@ -71,19 +71,32 @@ display: line;
 }
 
 /**
- * Site footer  **********************************************************
+ * Site footer 
+
+border-top: 1px solid $grey-color-dark;
+background-color: $grey-color-dark;
+color: #aaa;
+width:100%;
+min-height: 58px;
+position: absolute;
+left:0px;
+bottom:0px;
+
+**********************************************************
  */
 .site-footer {
 border-top: 1px solid $grey-color-dark;
 background-color: $grey-color-dark;
-opacity: 0.75;
 padding: 2px;
 color: #aaa;
-position: fixed;
+position:fixed;
 left:0px;
 bottom:0px;
-max-height: 56px;
+height:23px;
 width:100%;
+
+
+   
 
 }
 /**
