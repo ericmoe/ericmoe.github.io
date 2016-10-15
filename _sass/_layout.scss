@@ -75,14 +75,13 @@ display: line;
  */
 .site-footer {
 border-top: 1px solid $grey-color-dark;
-font-size: 10px;
 background-color: $grey-color-dark;
 padding: 2px;
 color: #aaa;
 position:fixed;
 left:0px;
 bottom:0px;
-height:25px;
+min-height:56px;
 width:100%;
 }
 /**
@@ -391,3 +390,4 @@ font-size: $caption_font_size;
     margin: 10px;
 }
 */
+

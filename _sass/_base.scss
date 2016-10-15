@@ -150,6 +150,19 @@ article a {
     }
 }
 
+footer a {
+    color: #aaa;
+    text-decoration: none;
+    /*
+    &:visited {
+        color: darken($brand-color, 15%); 
+    }
+    */
+    &:hover {
+        color: $theme-color;
+        text-decoration: none;
+    }
+}
 
 
 /**
@@ -232,3 +245,22 @@ pre {
 
 
 
+
+.footer-nav {
+    float: left;
+line-height: $nav-height;
+}
+
+.footer a{
+   color: #aaa;
+    text-decoration: none;
+    /*
+    &:visited {
+        color: darken($brand-color, 15%); 
+    }
+    */
+    &:hover {
+        color: $theme-color;
+        text-decoration: none;
+    } 
+}

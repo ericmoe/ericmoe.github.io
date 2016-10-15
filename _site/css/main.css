@@ -90,6 +90,18 @@ article a {
   article a:hover {
     text-decoration: none; }
 
+footer a {
+  color: #aaa;
+  text-decoration: none;
+  /*
+  &:visited {
+      color: darken($brand-color, 15%); 
+  }
+  */ }
+  footer a:hover {
+    color: #3E69AA;
+    text-decoration: none; }
+
 /**
  * Blockquotes
  */
@@ -146,6 +158,22 @@ pre {
   content: "";
   display: table;
   clear: both; }
+
+.footer-nav {
+  float: left;
+  line-height: 56px; }
+
+.footer a {
+  color: #aaa;
+  text-decoration: none;
+  /*
+  &:visited {
+      color: darken($brand-color, 15%); 
+  }
+  */ }
+  .footer a:hover {
+    color: #3E69AA;
+    text-decoration: none; }
 
 /**
  * Site header   **********************************************************
@@ -212,14 +240,13 @@ pre {
  */
 .site-footer {
   border-top: 1px solid #333;
-  font-size: 10px;
   background-color: #333;
   padding: 2px;
   color: #aaa;
   position: fixed;
   left: 0px;
   bottom: 0px;
-  height: 25px;
+  min-height: 56px;
   width: 100%; }
 
 /**
