@@ -8,7 +8,6 @@ sitemap: main
 <ul class="post-list">
 
    <li> 
-    <br/>
     <hr/>
    </li>
 </ul>
