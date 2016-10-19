@@ -1,7 +1,7 @@
 ---
 layout: post
 title: All Config Tags
-date: 2016-10-18 16:40:16
+date: {}
 description: A place to test all the tags.
 share: facebook twitter linkedin
 published: true
@@ -11,7 +11,7 @@ published: true
 - title: _Eric Moe_ {{ site.title }} 
 - email:  _geomoetric@gmail.com_ {{ site.email }}
 - name: _"Eric Moe"_ {{ site.name }}
-- description: _The design portfolio of Eric Moe._ {{ site.descritption }}
+- description: _The design portfolio of Eric Moe._ {{ site.description }}
 
 # Owner/author information
 - owner:
@@ -26,7 +26,7 @@ published: true
   - linkedin:       _https://www.linkedin.com/in/geomoetric_ {{ site.owner.linkedin }}
   - instagram:      _https://www.instagram.com/geomoetric/_ {{ site.owner.instagram }}
   - tumblr:     _http://geomoetric.tumblr.com/_ {{ site.owner.tumblr }}
-  - dribbble:     _https://dribbble.com/geomoetric/_ {{ site.owner.dribble }}
+  - dribbble:     _https://dribbble.com/geomoetric/_ {{ site.owner.dribbble }}
   - pinterest:    _https://www.pinterest.com/geomoetric/_ {{ site.owner.pinterest }}
   - reddit:     _https://www.reddit.com/user/geomoetric/_ {{ site.owner.reddit }}
   - etsy:       _https://www.etsy.com/shop/Geomoetric/_ {{ site.owner.etsy }}
