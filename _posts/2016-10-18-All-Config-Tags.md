@@ -1,39 +1,39 @@
 ---
 layout: post
-title:  All Config Tags 
-date:   2016-10-18 16:40:16
+title: All Config Tags
+date: {}
 description: A place to test all the tags.
 share: facebook twitter linkedin
+published: true
 ---
 
 # Site settings {{ site._____ }}
-- title: Eric Moe {{ site.title }} 
-- email:  geomoetric@gmail.com {{ site.email }}
-- name: "Eric Moe" {{ site.name }}
-- description: The design portfolio of Eric Moe. {{ site.descritption }}
+- title: _Eric Moe_ {{ site.title }} 
+- email:  _geomoetric@gmail.com_ {{ site.email }}
+- name: _"Eric Moe"_ {{ site.name }}
+- description: _The design portfolio of Eric Moe._ {{ site.descritption }}
 
 # Owner/author information
 - owner:
- - name: Eric Moe  {{ site.owner.name }}
- - avatar: avatar.jpg  {{ site.owner.avatar }}
- - bio:  "Graphic Designer out of Austin, TX"  {{ site.owner.bio }}
+ - name: _Eric Moe_  {{ site.owner.name }}
+ - avatar: _avatar.jpg_  {{ site.owner.avatar }}
+ - bio:  _"Graphic Designer out of Austin, TX"_  {{ site.owner.bio }}
   
 # Social networking links used in footer. Update and remove as you like.
-  - twitter:     https://twitter.com/geomoetric  {{ site.owner.twitter }} 
-  - facebook:    https://www.facebook.com/geomoetric {{ site.owner.facebook }}  
-  - github:       https://github.com/geomoetric {{ site.owner.github }}
-  - linkedin:       https://www.linkedin.com/in/geomoetric {{ site.owner.linkedin }}
-  - instagram:      https://www.instagram.com/geomoetric/ {{ site.owner.instagram }}
-  - tumblr:     http://geomoetric.tumblr.com/ {{ site.owner.tumblr }}
-  - dribbble:     https://dribbble.com/geomoetric/ {{ site.owner.dribble }}
-  - pinterest:    https://www.pinterest.com/geomoetric/ {{ site.owner.pinterest }}
-  - reddit:     https://www.reddit.com/user/geomoetric/ {{ site.owner.reddit }}
-  - etsy:       https://www.etsy.com/shop/Geomoetric/ {{ site.owner.etsy }}
-  - behance: https://www.behance.net/EricMoe  {{ site.owner.behance }}
+  - twitter:    _https://twitter.com/geomoetric_  {{ site.owner.twitter }} 
+  - facebook:    _https://www.facebook.com/geomoetric_ {{ site.owner.facebook }}  
+  - github:       _https://github.com/geomoetric_ {{ site.owner.github }}
+  - linkedin:       _https://www.linkedin.com/in/geomoetric_ {{ site.owner.linkedin }}
+  - instagram:      _https://www.instagram.com/geomoetric/_ {{ site.owner.instagram }}
+  - tumblr:     _http://geomoetric.tumblr.com/_ {{ site.owner.tumblr }}
+  - dribbble:     _https://dribbble.com/geomoetric/_ {{ site.owner.dribble }}
+  - pinterest:    _https://www.pinterest.com/geomoetric/_ {{ site.owner.pinterest }}
+  - reddit:     _https://www.reddit.com/user/geomoetric/_ {{ site.owner.reddit }}
+  - etsy:       _https://www.etsy.com/shop/Geomoetric/_ {{ site.owner.etsy }}
+  - behance: _https://www.behance.net/EricMoe_  {{ site.owner.behance }}
   
 # Social networking links used in share buttons. Update and remove as you like. 
 - username:
- -  twitter:      "geomoetric" {{ site.username.twitter }}
- - github:     "geomoetric" {{ site.username.github }}
- - instagram:      "geomoetric" {{ site.username.instagram }}
- 
+ -  twitter:      _"geomoetric"_ {{ site.username.twitter }}
+ - github:     _"geomoetric"_ {{ site.username.github }}
+ - instagram:      _"geomoetric"_ {{ site.username.instagram }}
