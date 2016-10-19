@@ -33,9 +33,9 @@ owner:
   
 # Social networking links used in share buttons. Update and remove as you like. 
 username:
-  twitter:      "@geomoetric"
-  github:     "@geomoetric" 
-  instagram:      "@geomoetric"
+  twitter:      "geomoetric"
+  github:     "geomoetric" 
+  instagram:      "geomoetric"
   
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
