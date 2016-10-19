@@ -8,33 +8,40 @@
 </div>
 <br/>
 <span class="contacticon2 center">
-	<a href="mailto:?" &subject="{{ post.title }}" &body="{{ page.url | prepend: site.baseurl }};"><span class="fa-stack fa-lg">
+	<a href="mailto:?Subject={{ page.title }} by {{ site.title }}&amp;Body=Check out this post by {{ site.title }}— {{ page.url | prepend: site.baseurl }};"><span class="fa-stack fa-lg">
 	  <i class="fa fa-square fa-stack-2x"></i>
 	  <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
 	</span></a> 
-	<a href="http://www.facebook.com/sharer.php?u=<URL>&p[title]=<TITLE>" target="_blank"><span class="fa-stack fa-lg">
+	<a href="http://www.facebook.com/sharer.php?u={{ page.url | prepend: site.baseurl }}" target="_blank"><span class="fa-stack fa-lg">
 	  <i class="fa fa-square fa-stack-2x"></i>
 	  <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
 	</span></a> 
-	<a href="http://twitter.com/share?text=<TITLE>&url=<URL>&via=<TWITTER-HANDLE>&related=<TWITTER-HANDLE>" target="_blank"><span class="fa-stack fa-lg">
+	<a href="http://twitter.com/share?text={{ page.title }}&url={{ page.url | prepend: site.baseurl }}&via={{twitter_username}}" target="_blank"><span class="fa-stack fa-lg">
 	  <i class="fa fa-square fa-stack-2x"></i>
 	  <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
 	</span></a> 
-	<a href="http://www.linkedin.com/shareArticle?mini=true&url=<URL>&title=<TITILE>&summary=<DESCRIPTION>&source=<DOMAIN>" target="_blank"><span class="fa-stack fa-lg">
+	<a href="http://www.linkedin.com/shareArticle?mini=true&url={{ page.url | prepend: site.baseurl }}&title={{ page.title }}&summary={{ page.description }}&source={{ site.baseurl }}" target="_blank"><span class="fa-stack fa-lg">
 	  <i class="fa fa-square fa-stack-2x"></i>
 	  <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
 	</span></a> 
-	<a href="http://www.tumblr.com/share/link?url=<URL>&name=<TITLE>&description=<DESCRIPTION>" target="_blank"><span class="fa-stack fa-lg">
+	<a href="http://www.tumblr.com/share/link?url={{ page.url | prepend: site.baseurl }}&name={{ page.title }}&description={{ page.description }}" target="_blank"><span class="fa-stack fa-lg">
 	  <i class="fa fa-square fa-stack-2x"></i>
 	  <i class="fa fa-tumblr fa-stack-1x fa-inverse"></i>
 	</span></a> 
-	<a href="http://pinterest.com/pin/create/button/?url=<URL>&description=<TITLE>" target="_blank"><span class="fa-stack fa-lg">
+	<a href="http://pinterest.com/pin/create/button/?url={{ page.url | prepend: site.baseurl }}&description={{ page.description }}={{ page.title }}" target="_blank"><span class="fa-stack fa-lg">
 	  <i class="fa fa-square fa-stack-2x"></i>
 	  <i class="fa fa-pinterest fa-stack-1x fa-inverse"></i>
 	</span></a> 
-	<a href="http://www.reddit.com/submit?url=<URL>&title=<TITLE>" target="_blank"><span class="fa-stack fa-lg">
+	<a href="http://www.reddit.com/submit?url={{ page.url | prepend: site.baseurl }}
+&title={{ page.title }}" target="_blank"><span class="fa-stack fa-lg">
 	  <i class="fa fa-square fa-stack-2x"></i>
 	  <i class="fa fa-reddit-alien fa-stack-1x fa-inverse"></i>
 	</span></a> 
 </span>
+
+{{ page.url | prepend: site.baseurl }}
+
+{{ page.title }}
+
+{{ page.description }}
 
