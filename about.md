@@ -17,35 +17,35 @@ Link to your social media connections, too. This theme is set up to use <a href=
 <hr/>
 <br/>
 <span class="contacticon2 center">
-	<a href="mailto:geomoetric@gmail.com"><span class="fa-stack fa-lg">
+	<a href="mailto:{{ site.email }}"><span class="fa-stack fa-lg">
 	  <i class="fa fa-square fa-stack-2x"></i>
 	  <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
 	</span></a> 
-	<a href="https://www.instagram.com/geomoetric/" target="_blank"><span class="fa-stack fa-lg">
+	<a href="{{ site.owner.instagram }}" target="_blank"><span class="fa-stack fa-lg">
 	  <i class="fa fa-square fa-stack-2x"></i>
 	  <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
 	</span></a> 
-	<a href="https://twitter.com/geomoetric/" target="_blank"><span class="fa-stack fa-lg">
+	<a href="{{ site.owner.twitter }}" target="_blank"><span class="fa-stack fa-lg">
 	  <i class="fa fa-square fa-stack-2x"></i>
 	  <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
 	</span></a> 
-	<a href="https://dribbble.com/geomoetric/" target="_blank"><span class="fa-stack fa-lg">
+	<a href="{{ site.owner.dribbble }}" target="_blank"><span class="fa-stack fa-lg">
 	  <i class="fa fa-square fa-stack-2x"></i>
 	  <i class="fa fa-dribbble fa-stack-1x fa-inverse"></i>
 	</span></a> 
-	<a href="https://www.linkedin.com/in/geomoetric/" target="_blank"><span class="fa-stack fa-lg">
+	<a href="{{ site.owner.linkedin }}" target="_blank"><span class="fa-stack fa-lg">
 	  <i class="fa fa-square fa-stack-2x"></i>
 	  <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
 	</span></a> 
-	<a href="http://geomoetric.tumblr.com/" target="_blank"><span class="fa-stack fa-lg">
+	<a href="{{ site.owner.tumblr }}" target="_blank"><span class="fa-stack fa-lg">
 	  <i class="fa fa-square fa-stack-2x"></i>
 	  <i class="fa fa-tumblr fa-stack-1x fa-inverse"></i>
 	</span></a> 
-	<a href="https://www.pinterest.com/geomoetric/" target="_blank"><span class="fa-stack fa-lg">
+	<a href="{{ site.owner.pinterest }}" target="_blank"><span class="fa-stack fa-lg">
 	  <i class="fa fa-square fa-stack-2x"></i>
 	  <i class="fa fa-pinterest fa-stack-1x fa-inverse"></i>
 	</span></a> 
-	<a href="https://www.reddit.com/user/geomoetric/" target="_blank"><span class="fa-stack fa-lg">
+	<a href="{{ site.owner.reddit }}" target="_blank"><span class="fa-stack fa-lg">
 	  <i class="fa fa-square fa-stack-2x"></i>
 	  <i class="fa fa-reddit-alien fa-stack-1x fa-inverse"></i>
 	</span></a> 
@@ -53,11 +53,11 @@ Link to your social media connections, too. This theme is set up to use <a href=
 	  <i class="fa fa-square fa-stack-2x"></i>
 	  <i class="fa fa-github-alt fa-stack-1x fa-inverse"></i>
 	</span></a> 
-	<a href="https://www.etsy.com/shop/Geomoetric/" target="_blank"><span class="fa-stack fa-lg">
+	<a href="{{ site.owner.github }}" target="_blank"><span class="fa-stack fa-lg">
 	  <i class="fa fa-square fa-stack-2x"></i>
 	  <i class="fa fa-shopping-basket fa-stack-1x fa-inverse"></i>
 	</span></a> 
-	<a href="https://www.behance.net/EricMoe" target="_blank"><span class="fa-stack fa-lg">
+	<a href="{{ site.owner.behance }}" target="_blank"><span class="fa-stack fa-lg">
 	  <i class="fa fa-square fa-stack-2x"></i>
 	  <i class="fa fa-behance fa-stack-1x fa-inverse"></i>
 	</span></a>
