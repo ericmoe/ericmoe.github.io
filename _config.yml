@@ -1,19 +1,54 @@
-# Site settings
+# Site settings {{ site._____ }}
 title: Eric Moe
-email: you@example.com
+email:  geomoetric@gmail.com
 name: Eric Moe
-description: > # this means to ignore newlines until "baseurl:"
-  The portfolio of Eric Moe.
+description: The design portfolio of Eric Moe.
 baseurl:  # the subpath of your site, e.g. /blog/
-url:  # the base hostname & protocol for your site
-twitter_username: https://twitter.com/geomoetric
-github_username:  https://github.com/geomoetric
+
+# Your site's domain goes here (eg: https://yourusername.github.io, http://yourdomain.com, etc)
+# When testing locally leave blank or use http://localhost:4000
+url:  #https://www.ericmoe.co #the base hostname & protocol for your site
+
+# Owner/author information
+owner:
+  name:           Eric Moe
+  avatar:         avatar.jpg
+  bio:            "Graphic Designer out of Austin, TX"    
+  # Social networking links used in footer. Update and remove as you like.
+  twitter:     https://twitter.com/geomoetric   
+  facebook:    https://www.facebook.com/geomoetric   
+  github:       https://github.com/geomoetric  
+  stackexchange:  
+  linkedin:       https://www.linkedin.com/in/geomoetric
+  instagram:      https://www.instagram.com/geomoetric/
+  flickr:         
+  tumblr:     http://geomoetric.tumblr.com/
+	dribbble:     https://dribbble.com/geomoetric/
+  pinterest:    https://www.pinterest.com/geomoetric/
+	reddit:     https://www.reddit.com/user/geomoetric/
+	etsy:       https://www.etsy.com/shop/Geomoetric/
+	behance: https://www.behance.net/EricMoe
+  # google plus id, include the '+', eg +mmistakes
+  google_plus:
+  
+# Social networking links used in share buttons. Update and remove as you like. 
+username:
+  twitter:    @geomoetric
+  github:     @geomoetric 
+  instagram:      @geomoetric
+
+
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:   
+google_verify: 
 
 
 # Build settings
 markdown: kramdown
 
 highlighter: rouge
+
 
 # Pagination
 paginate: 15
