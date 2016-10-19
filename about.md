@@ -45,7 +45,7 @@ Link to your social media connections, too. This theme is set up to use <a href=
 	  <i class="fa fa-square fa-stack-2x"></i>
 	  <i class="fa fa-pinterest fa-stack-1x fa-inverse"></i>
 	</span></a> 
-	<a href="ttps://www.reddit.com/user/geomoetric/" target="_blank"><span class="fa-stack fa-lg">
+	<a href="https://www.reddit.com/user/geomoetric/" target="_blank"><span class="fa-stack fa-lg">
 	  <i class="fa fa-square fa-stack-2x"></i>
 	  <i class="fa fa-reddit-alien fa-stack-1x fa-inverse"></i>
 	</span></a> 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project 1
+title: Project
 description: a project with a background image
 img: /img/12.jpg
 date:   2015-03-15 16:40:16

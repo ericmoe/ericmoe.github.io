@@ -14,6 +14,7 @@ sitemap: main
   <br/>
 </div>
 
+<article class="post-content">
 <span class="contacticon center">
 	<a href="mailto:geomoetric@gmail.com"><span class="fa-stack fa-lg">
 	  <i class="fa fa-square fa-stack-2x"></i>
@@ -60,3 +61,4 @@ sitemap: main
 	  <i class="fa fa-behance fa-stack-1x fa-inverse"></i>
 	</span></a>
 </span>
+</article>
