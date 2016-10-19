@@ -1,7 +1,7 @@
 ---
 layout: post
 title: All Config Tags
-date: {}
+date: 2016-10-18T16:40:16.000Z
 description: A place to test all the tags.
 share: facebook twitter linkedin
 published: true
