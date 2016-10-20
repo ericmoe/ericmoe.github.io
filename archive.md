@@ -9,7 +9,7 @@ sitemap: main
 
 <hr/>
 <br/>
-<h2>portfolio</h2>
+<h2>Portfolio</h2>
 <br>
 <ul class="post-list">
 {% for project in site.portfolio %}
@@ -21,7 +21,7 @@ sitemap: main
 </ul>
 <hr/>
 <br/>
-<h2>blog</h2>
+<h2>Blog</h2>
 <br>
 <ul class="post-list">
 {% for post in site.posts %}
@@ -31,9 +31,11 @@ sitemap: main
       </li>
 {% endfor %}
 </ul>
+
+<!--
 <hr/>
 <br/>
-<h2>poetry</h2>
+<h2>Poetry</h2>
 <br>
 <ul class="post-list">
 {% for poem in site.poetry reversed %}
@@ -43,3 +45,4 @@ sitemap: main
       </li>
 {% endfor %}
 </ul>
+-->
