@@ -1,6 +1,6 @@
 # Site settings {{ site._____ }}
 title: Eric Moe
-email:  test@gmail.com
+email:  geomoetric@gmail.com
 name: "Eric Moe"
 description: The design portfolio of Eric Moe.
 baseurl:  # the subpath of your site, e.g. /blog/
@@ -35,8 +35,8 @@ username:
   
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/Chicago
-future:      false  # publish future dated posts --  true, false (default) 
+timezone:   America/Chicago
+future: false  # publish future dated posts --  true, false (default) 
 
 
 # Analytics and webmaster tools stuff goes here
