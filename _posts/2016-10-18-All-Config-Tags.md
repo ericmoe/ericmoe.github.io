@@ -13,24 +13,19 @@ published: true
 - name: _"Eric Moe"_ {{ site.name }}
 - description: _The design portfolio of Eric Moe._ {{ site.description }}
 
-# Owner/author information
-- owner:
- - name: _Eric Moe_  {{ site.owner.name }}
- - avatar: _avatar.jpg_  {{ site.owner.avatar }}
- - bio:  _"Graphic Designer out of Austin, TX"_  {{ site.owner.bio }}
   
 # Social networking links used in footer. Update and remove as you like.
-  - twitter:    _https://twitter.com/geomoetric_  {{ site.owner.twitter }} 
-  - facebook:    _https://www.facebook.com/geomoetric_ {{ site.owner.facebook }}  
-  - github:       _https://github.com/geomoetric_ {{ site.owner.github }}
-  - linkedin:       _https://www.linkedin.com/in/geomoetric_ {{ site.owner.linkedin }}
-  - instagram:      _https://www.instagram.com/geomoetric/_ {{ site.owner.instagram }}
-  - tumblr:     _http://geomoetric.tumblr.com/_ {{ site.owner.tumblr }}
-  - dribbble:     _https://dribbble.com/geomoetric/_ {{ site.owner.dribbble }}
-  - pinterest:    _https://www.pinterest.com/geomoetric/_ {{ site.owner.pinterest }}
-  - reddit:     _https://www.reddit.com/user/geomoetric/_ {{ site.owner.reddit }}
-  - etsy:       _https://www.etsy.com/shop/Geomoetric/_ {{ site.owner.etsy }}
-  - behance: _https://www.behance.net/EricMoe_  {{ site.owner.behance }}
+  - twitter:    _https://twitter.com/geomoetric_  {{ site.twitter }} 
+  - facebook:    _https://www.facebook.com/geomoetric_ {{ site.facebook }}  
+  - github:       _https://github.com/geomoetric_ {{ site.github }}
+  - linkedin:       _https://www.linkedin.com/in/geomoetric_ {{ site.linkedin }}
+  - instagram:      _https://www.instagram.com/geomoetric/_ {{ site.instagram }}
+  - tumblr:     _http://geomoetric.tumblr.com/_ {{ site.tumblr }}
+  - dribbble:     _https://dribbble.com/geomoetric/_ {{ site.dribbble }}
+  - pinterest:    _https://www.pinterest.com/geomoetric/_ {{ site.pinterest }}
+  - reddit:     _https://www.reddit.com/user/geomoetric/_ {{ site.reddit }}
+  - etsy:       _https://www.etsy.com/shop/Geomoetric/_ {{ site.etsy }}
+  - behance: _https://www.behance.net/EricMoe_  {{ site.behance }}
   
 # Social networking links used in share buttons. Update and remove as you like. 
 - username:
