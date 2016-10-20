@@ -21,31 +21,31 @@ Link to your social media connections, too. This theme is set up to use <a href=
 	  <i class="fa fa-square fa-stack-2x"></i>
 	  <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
 	</span></a> 
-	<a href="{{ site.owner.instagram }}" target="_blank"><span class="fa-stack fa-lg">
+	<a href="{{ site.instagram }}" target="_blank"><span class="fa-stack fa-lg">
 	  <i class="fa fa-square fa-stack-2x"></i>
 	  <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
 	</span></a> 
-	<a href="{{ site.owner.twitter }}" target="_blank"><span class="fa-stack fa-lg">
+	<a href="{{ site.twitter }}" target="_blank"><span class="fa-stack fa-lg">
 	  <i class="fa fa-square fa-stack-2x"></i>
 	  <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
 	</span></a> 
-	<a href="{{ site.owner.dribbble }}" target="_blank"><span class="fa-stack fa-lg">
+	<a href="{{ site.dribbble }}" target="_blank"><span class="fa-stack fa-lg">
 	  <i class="fa fa-square fa-stack-2x"></i>
 	  <i class="fa fa-dribbble fa-stack-1x fa-inverse"></i>
 	</span></a> 
-	<a href="{{ site.owner.linkedin }}" target="_blank"><span class="fa-stack fa-lg">
+	<a href="{{ site.linkedin }}" target="_blank"><span class="fa-stack fa-lg">
 	  <i class="fa fa-square fa-stack-2x"></i>
 	  <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
 	</span></a> 
-	<a href="{{ site.owner.tumblr }}" target="_blank"><span class="fa-stack fa-lg">
+	<a href="{{ site.tumblr }}" target="_blank"><span class="fa-stack fa-lg">
 	  <i class="fa fa-square fa-stack-2x"></i>
 	  <i class="fa fa-tumblr fa-stack-1x fa-inverse"></i>
 	</span></a> 
-	<a href="{{ site.owner.pinterest }}" target="_blank"><span class="fa-stack fa-lg">
+	<a href="{{ site.pinterest }}" target="_blank"><span class="fa-stack fa-lg">
 	  <i class="fa fa-square fa-stack-2x"></i>
 	  <i class="fa fa-pinterest fa-stack-1x fa-inverse"></i>
 	</span></a> 
-	<a href="{{ site.owner.reddit }}" target="_blank"><span class="fa-stack fa-lg">
+	<a href="{{ site.reddit }}" target="_blank"><span class="fa-stack fa-lg">
 	  <i class="fa fa-square fa-stack-2x"></i>
 	  <i class="fa fa-reddit-alien fa-stack-1x fa-inverse"></i>
 	</span></a> 
@@ -53,11 +53,11 @@ Link to your social media connections, too. This theme is set up to use <a href=
 	  <i class="fa fa-square fa-stack-2x"></i>
 	  <i class="fa fa-github-alt fa-stack-1x fa-inverse"></i>
 	</span></a> 
-	<a href="{{ site.owner.github }}" target="_blank"><span class="fa-stack fa-lg">
+	<a href="{{ site.github }}" target="_blank"><span class="fa-stack fa-lg">
 	  <i class="fa fa-square fa-stack-2x"></i>
 	  <i class="fa fa-shopping-basket fa-stack-1x fa-inverse"></i>
 	</span></a> 
-	<a href="{{ site.owner.behance }}" target="_blank"><span class="fa-stack fa-lg">
+	<a href="{{ site.behance }}" target="_blank"><span class="fa-stack fa-lg">
 	  <i class="fa fa-square fa-stack-2x"></i>
 	  <i class="fa fa-behance fa-stack-1x fa-inverse"></i>
 	</span></a>
