@@ -5,11 +5,65 @@
     <description></description>
     <link></link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 18 Oct 2016 23:07:54 -0500</pubDate>
-    <lastBuildDate>Tue, 18 Oct 2016 23:07:54 -0500</lastBuildDate>
+    <pubDate>Wed, 19 Oct 2016 19:26:42 -0500</pubDate>
+    <lastBuildDate>Wed, 19 Oct 2016 19:26:42 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
 
+    
+        
+
+        
+
+        
+        <item>
+            <title>All Config Tags</title>
+            <description>&lt;h1 id=&quot;site-settings&quot;&gt;Site settings&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;title: &lt;em&gt;Eric Moe&lt;/em&gt; Eric Moe&lt;/li&gt;
+  &lt;li&gt;email:  &lt;em&gt;geomoetric@gmail.com&lt;/em&gt; geomoetric@gmail.com&lt;/li&gt;
+  &lt;li&gt;name: &lt;em&gt;“Eric Moe”&lt;/em&gt; Eric Moe&lt;/li&gt;
+  &lt;li&gt;description: &lt;em&gt;The design portfolio of Eric Moe.&lt;/em&gt; The design portfolio of Eric Moe.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;ownerauthor-information&quot;&gt;Owner/author information&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;owner:&lt;/li&gt;
+  &lt;li&gt;name: &lt;em&gt;Eric Moe&lt;/em&gt;  Eric Moe&lt;/li&gt;
+  &lt;li&gt;avatar: &lt;em&gt;avatar.jpg&lt;/em&gt;  avatar.jpg&lt;/li&gt;
+  &lt;li&gt;bio:  &lt;em&gt;“Graphic Designer out of Austin, TX”&lt;/em&gt;  Graphic Designer out of Austin, TX&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;social-networking-links-used-in-footer-update-and-remove-as-you-like&quot;&gt;Social networking links used in footer. Update and remove as you like.&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;twitter:    &lt;em&gt;https://twitter.com/geomoetric&lt;/em&gt;  https://twitter.com/geomoetric&lt;/li&gt;
+  &lt;li&gt;facebook:    &lt;em&gt;https://www.facebook.com/geomoetric&lt;/em&gt; https://www.facebook.com/geomoetric&lt;/li&gt;
+  &lt;li&gt;github:       &lt;em&gt;https://github.com/geomoetric&lt;/em&gt; https://github.com/geomoetric&lt;/li&gt;
+  &lt;li&gt;linkedin:       &lt;em&gt;https://www.linkedin.com/in/geomoetric&lt;/em&gt; https://www.linkedin.com/in/geomoetric&lt;/li&gt;
+  &lt;li&gt;instagram:      &lt;em&gt;https://www.instagram.com/geomoetric/&lt;/em&gt; https://www.instagram.com/geomoetric/&lt;/li&gt;
+  &lt;li&gt;tumblr:     &lt;em&gt;http://geomoetric.tumblr.com/&lt;/em&gt; http://geomoetric.tumblr.com/&lt;/li&gt;
+  &lt;li&gt;dribbble:     &lt;em&gt;https://dribbble.com/geomoetric/&lt;/em&gt; https://dribbble.com/geomoetric/&lt;/li&gt;
+  &lt;li&gt;pinterest:    &lt;em&gt;https://www.pinterest.com/geomoetric/&lt;/em&gt; https://www.pinterest.com/geomoetric/&lt;/li&gt;
+  &lt;li&gt;reddit:     &lt;em&gt;https://www.reddit.com/user/geomoetric/&lt;/em&gt; https://www.reddit.com/user/geomoetric/&lt;/li&gt;
+  &lt;li&gt;etsy:       &lt;em&gt;https://www.etsy.com/shop/Geomoetric/&lt;/em&gt; https://www.etsy.com/shop/Geomoetric/&lt;/li&gt;
+  &lt;li&gt;behance: &lt;em&gt;https://www.behance.net/EricMoe&lt;/em&gt;  https://www.behance.net/EricMoe&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;social-networking-links-used-in-share-buttons-update-and-remove-as-you-like&quot;&gt;Social networking links used in share buttons. Update and remove as you like.&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;username:&lt;/li&gt;
+  &lt;li&gt;twitter:      &lt;em&gt;“geomoetric”&lt;/em&gt; geomoetric&lt;/li&gt;
+  &lt;li&gt;github:     &lt;em&gt;“geomoetric”&lt;/em&gt; geomoetric&lt;/li&gt;
+  &lt;li&gt;instagram:      &lt;em&gt;“geomoetric”&lt;/em&gt; geomoetric&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <pubDate>Tue, 18 Oct 2016 11:40:16 -0500</pubDate>
+            <link>/2016/10/18/All-Config-Tags.html</link>
+            <guid isPermaLink="true">/2016/10/18/All-Config-Tags.html</guid>
+            
+            
+        </item>
+        
     
         
 
