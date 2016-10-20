@@ -6,7 +6,7 @@ description: The resume of Eric Moe.
 sitemap: main
 ---
 <!-- include the resume link here -->
-<a href="https://en.wikipedia.org/wiki/Link_(The_Legend_of_Zelda)" target="blank">[download pdf]</a>
+<h4><a href="https://en.wikipedia.org/wiki/Link_(The_Legend_of_Zelda)" target="blank">[download pdf]</a></h4>
 <br/>
 <hr/>
 <br/>
