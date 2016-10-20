@@ -5,50 +5,45 @@ permalink: /resume/
 description: The resume of Eric Moe.
 sitemap: main
 ---
+<!-- include the resume link here -->
 <a href="https://en.wikipedia.org/wiki/Link_(The_Legend_of_Zelda)" target="blank">[download pdf]</a>
 <br/>
 <hr/>
 <br/>
-### Position including <a href="https://en.wikipedia.org/wiki/Link_(The_Legend_of_Zelda)" target="blank">Link to the company</a>
-#### Feb'15—May'16 (dates)
-<br/>
-Add a two sentence description of the job. Maybe it will look something like this.
-<br/>
-<hr/>
-<br/>
-### Position including <a href="https://en.wikipedia.org/wiki/Link_(The_Legend_of_Zelda)" target="blank">Link to the company</a>
-###### yup
-#### Feb'15—May'16 (dates)
-<br/>
-I work as an Instructional Design Intern, creating materials that teaches clients how to use the athenaOne suite. I create demo videos, detailing workflows and features, as well as technical resources including tip sheets and elearning courses.
-<br/>
-<hr/>
-<br/>
-### Position including <a href="https://en.wikipedia.org/wiki/Link_(The_Legend_of_Zelda)" target="blank">Link to the company</a>
-<br/>
-#### Feb'15—May'16 (dates)
-<br/>
-I work as an Instructional Design Intern, creating materials that teaches clients how to use the athenaOne suite. I create demo videos, detailing workflows and features, as well as technical resources including tip sheets and elearning courses.
-<br/>
-<hr/>
-<br/>
-#### Position including <a href="https://en.wikipedia.org/wiki/Link_(The_Legend_of_Zelda)" target="blank">Link to the company</a>
-Feb'15—May'16 (dates)
 
-I work as an Instructional Design Intern, creating materials that teaches clients how to use the athenaOne suite. I create demo videos, detailing workflows and features, as well as technical resources including tip sheets and elearning courses.
-<br/>
-<hr/>
-<br/>
+<!-- repeat this code block for everything you want to include -->
+
 ### Position including <a href="https://en.wikipedia.org/wiki/Link_(The_Legend_of_Zelda)" target="blank">Link to the company</a>
 #### Feb'15—May'16 (dates)
 <br/>
-I work as an Instructional Design Intern, creating materials that teaches clients how to use the athenaOne suite. I create demo videos, detailing workflows and features, as well as technical resources including tip sheets and elearning courses.
+Explain your job position and go into detail about what the position mean without going into mundane details. Mention projects, skills, resources, and programs you created in a concise, easy to read manner because people will skim.
 <br/>
 <hr/>
 <br/>
-#### Position including <a href="https://en.wikipedia.org/wiki/Link_(The_Legend_of_Zelda)" target="blank">Link to the company</a>
-##### Feb'15—May'16 (dates)
+
+
+### Position including <a href="https://en.wikipedia.org/wiki/Link_(The_Legend_of_Zelda)" target="blank">Link to the company</a>
+#### Feb'15—May'16
 <br/>
-I work as an Instructional Design Intern, creating materials that teaches clients how to use the athenaOne suite. I create demo videos, detailing workflows and features, as well as technical resources including tip sheets and elearning courses.
+Explain your job position and go into detail about what the position mean without going into mundane details. Mention projects, skills, resources, and programs you created in a concise, easy to read manner because people will skim.
 <br/>
 <hr/>
+<br/>
+
+
+### Position including <a href="https://en.wikipedia.org/wiki/Link_(The_Legend_of_Zelda)" target="blank">Link to the company</a>
+#### Feb'15—May'16
+<br/>
+Explain your job position and go into detail about what the position mean without going into mundane details. Mention projects, skills, resources, and programs you created in a concise, easy to read manner because people will skim.
+<br/>
+<hr/>
+<br/>
+
+
+### Position including <a href="https://en.wikipedia.org/wiki/Link_(The_Legend_of_Zelda)" target="blank">Link to the company</a>
+#### Feb'15—May'16
+<br/>
+Explain your job position and go into detail about what the position mean without going into mundane details. Mention projects, skills, resources, and programs you created in a concise, easy to read manner because people will skim.
+<br/>
+<hr/>
+<br/>
