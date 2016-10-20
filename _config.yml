@@ -1,6 +1,6 @@
 # Site settings {{ site._____ }}
 title: Eric Moe
-email:  geomoetric@gmail.com
+email:  eric@gmail.com
 name: "Eric Moe"
 description: The design portfolio of Eric Moe.
 baseurl:  # the subpath of your site, e.g. /blog/
