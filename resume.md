@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: RESUME
 permalink: /resume/
 description: The resume of Eric Moe.
