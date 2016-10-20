@@ -40,8 +40,8 @@ Explain your job position and go into detail about what the position mean withou
 <br/>
 
 
-<h2>Position including <a href="https://en.wikipedia.org/wiki/Link_(The_Legend_of_Zelda)" target="blank">Link to the company</a></h2>
-<h5>Feb'15—May'16</h5>
+<h3>Position including <a href="https://en.wikipedia.org/wiki/Link_(The_Legend_of_Zelda)" target="blank">Link to the company</a></h3>
+<h4>Feb'15—May'16</h4>
 <br/>
 Explain your job position and go into detail about what the position mean without going into mundane details. Mention projects, skills, resources, and programs you created in a concise, easy to read manner because people will skim.
 <br/>
