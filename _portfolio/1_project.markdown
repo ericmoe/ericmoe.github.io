@@ -54,5 +54,6 @@ The code is simple. Just add a col class to your image, and another class specif
 	  <img class="col two" src="/img/6.jpg"/>
 	  <img class="col one" src="/img/11.jpg"/>
 	</div>
-
+<div class="img_row">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wBqM2ytqHY4" frameborder="0" allowfullscreen></iframe>
+</div>
