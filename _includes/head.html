@@ -19,7 +19,7 @@
     
     <!-- Twitter Cards -->
     {% if site.twitter %}
-    {% if page.image %}<meta name="twitter:card" content="summary_large_image">
+    {% if page.img %}<meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content="{{ site.url }}{{ page.img }}">
     {% else %}<meta name="twitter:card" content="summary">
     <meta name="twitter:image" content="{% if page.img %}{{ site.url }}{{ page.img }}{% else %}{{ site.url }}/img/prof_pic.jpg{% endif %}">{% endif %}
