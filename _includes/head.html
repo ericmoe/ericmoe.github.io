@@ -3,13 +3,27 @@
     <meta name="viewport" content="width=device-width initial-scale=1" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
+    <!-- Tab Title -->
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="description" content="{{ site.description }}">
 
+    <!-- Webfont Link -->
 	<link href="https://fonts.googleapis.com/css?family=Work+Sans" rel="stylesheet">
 
+    <!-- css/sass Link -->
     <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-
+    
+    <!-- Font Awesome Icons -->
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+    
+    <!-- Twitter Cards -->
+    {% if site.twitter %}
+    {% if page.image %}<meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="{{ site.url }}/images/{{ page.img }}">
+    {% else %}<meta name="twitter:card" content="summary">
+    <meta name="twitter:image" content="{% if page.image.thumb %}{{ site.url }}/images/{{ page.image.thumb }}{% else %}{{ site.url }}/images/{{ site.logo }}{% endif %}">{% endif %}
+    <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+    <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+    <meta name="twitter:creator" content="@{{ site.twitter }}">{% endif %}
 </head>
