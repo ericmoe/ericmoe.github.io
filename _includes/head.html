@@ -19,13 +19,12 @@
     
     <!-- Social Image -->
     {% if page.img %}<meta property="og:image" content="{{ site.url }}{{ page.img }}">
-    {% else %}<meta property="og:image" content="summary_large_image">{% endif %}
+    {% else %}<meta property="og:image" content="{{ site.url }}{{ site.prof_pic }}">{% endif %}
     
     <!-- Twitter Cards -->
     {% if site.twitter %}
     {% if page.img %}<meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content="{{ site.url }}{{ page.img }}">
-    <meta name="twitter:image" content="{{ site.url }}{{ site.prof_pic }}"{% endif %}>
     <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
     <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
     <meta name="twitter:creator" content="@{{ site.username.twitter }}">{% endif %}
