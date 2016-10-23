@@ -4,6 +4,8 @@ email:  geomoetric@gmail.com
 name: "Eric Moe"
 description: The design portfolio of Eric Moe.
 baseurl:  # the subpath of your site, e.g. /blog/
+prof_pic:   /img/prof_pic.jpg
+
 
 # Your site's domain goes here (eg: https://yourusername.github.io, http://yourdomain.com, etc)
 # When testing locally leave blank or use http://localhost:4000

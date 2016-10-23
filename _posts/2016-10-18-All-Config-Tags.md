@@ -12,6 +12,8 @@ published: true
 - email:  _geomoetric@gmail.com_ {{ site.email }}
 - name: _"Eric Moe"_ {{ site.name }}
 - description: _The design portfolio of Eric Moe._ {{ site.description }}
+- prof_pic: _prof_pic.jpg_ {{ site.prof_pic}}
+
 
   
 # Social networking links used in footer. Update and remove as you like.
