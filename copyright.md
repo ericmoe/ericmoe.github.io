@@ -28,9 +28,9 @@ sitemap: main
 
 **Image and Content TLDR:** You can share, copy, and redistribute the images/blog content in any medium or format. You can adapt, remix, transform, and build upon the material. But you can only do so under the following conditions:
 
-- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-- NonCommercial — You may not use the material for commercial purposes.
-- ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- **NonCommercial** — You may not use the material for commercial purposes.
+- **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">More Info</a> | <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode" target="_blank">Full License</a>
 
