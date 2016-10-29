@@ -5,8 +5,8 @@
     <description></description>
     <link></link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 22 Oct 2016 23:10:06 -0500</pubDate>
-    <lastBuildDate>Sat, 22 Oct 2016 23:10:06 -0500</lastBuildDate>
+    <pubDate>Sat, 29 Oct 2016 08:52:54 -0500</pubDate>
+    <lastBuildDate>Sat, 29 Oct 2016 08:52:54 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
     
@@ -45,7 +45,7 @@
   &lt;li&gt;email:  &lt;em&gt;geomoetric@gmail.com&lt;/em&gt; geomoetric@gmail.com&lt;/li&gt;
   &lt;li&gt;name: &lt;em&gt;“Eric Moe”&lt;/em&gt; Eric Moe&lt;/li&gt;
   &lt;li&gt;description: &lt;em&gt;The design portfolio of Eric Moe.&lt;/em&gt; The design portfolio of Eric Moe.&lt;/li&gt;
-  &lt;li&gt;prof_pic: &lt;em&gt;prof_pic.jpg&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;prof_pic: &lt;em&gt;prof_pic.jpg&lt;/em&gt; /img/prof_pic.jpg&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;social-networking-links-used-in-footer-update-and-remove-as-you-like&quot;&gt;Social networking links used in footer. Update and remove as you like.&lt;/h1&gt;
