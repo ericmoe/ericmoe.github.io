@@ -8,9 +8,9 @@ sitemap: main
 # Copyright ©{{ site.time | date: '%Y' }} {{ site.name }} Some Rights Reserved 
 <br>
 <div class="img_row">
-  <img class="col three" src="http://mirrors.creativecommons.org/presskit/icons/by.svg"/>
-  <img class="col three" src="http://mirrors.creativecommons.org/presskit/icons/nc.svg"/>
-  <img class="col three" src="http://mirrors.creativecommons.org/presskit/icons/sa.svg"/>
+  <img class="col one" src="http://mirrors.creativecommons.org/presskit/icons/by.svg"/>
+  <img class="col one" src="http://mirrors.creativecommons.org/presskit/icons/nc.svg"/>
+  <img class="col one" src="http://mirrors.creativecommons.org/presskit/icons/sa.svg"/>
 </div>
 <br>
 <br>
