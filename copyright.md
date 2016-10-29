@@ -9,19 +9,24 @@ sitemap: main
 <br>
 <div class="img_row">
   <img class="col three" src="http://mirrors.creativecommons.org/presskit/icons/by.svg"/>
-  <img class="col two" src="http://mirrors.creativecommons.org/presskit/icons/nc.svg"/>
-  <img class="col one" src="http://mirrors.creativecommons.org/presskit/icons/sa.svg"/>
+  <img class="col three" src="http://mirrors.creativecommons.org/presskit/icons/nc.svg"/>
+  <img class="col three" src="http://mirrors.creativecommons.org/presskit/icons/sa.svg"/>
 </div>
+<br>
+<br>
 <div class="img_row">
   <img src="http://mirrors.creativecommons.org/presskit/icons/by.svg"/>
-  <img class="col one" src="http://mirrors.creativecommons.org/presskit/icons/nc.svg"/>
-  <img class="col one" src="http://mirrors.creativecommons.org/presskit/icons/sa.svg"/>
+  <img src="http://mirrors.creativecommons.org/presskit/icons/nc.svg"/>
+  <img src="http://mirrors.creativecommons.org/presskit/icons/sa.svg"/>
 </div>
+<br>
+<br>
 <div>
   <img src="http://mirrors.creativecommons.org/presskit/icons/by.svg"/>
   <img class="col one" src="http://mirrors.creativecommons.org/presskit/icons/nc.svg"/>
   <img class="col one" src="http://mirrors.creativecommons.org/presskit/icons/sa.svg"/>
 </div>
+<br>
 <br>
 TLDR: This site’s code is licensed under the MIT license, and the images/blog content are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License.
 <br>
