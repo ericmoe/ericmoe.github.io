@@ -6,16 +6,32 @@ description: Copyright info.
 sitemap: main
 ---
 # Copyright ©{{ site.time | date: '%Y' }} {{ site.name }} Some Rights Reserved 
-
+<br>
+<div class="img_row">
+  <img class="col three" src="http://mirrors.creativecommons.org/presskit/icons/by.svg"/>
+  <img class="col two" src="http://mirrors.creativecommons.org/presskit/icons/nc.svg"/>
+  <img class="col one" src="http://mirrors.creativecommons.org/presskit/icons/sa.svg"/>
+</div>
+<div class="img_row">
+  <img src="http://mirrors.creativecommons.org/presskit/icons/by.svg"/>
+  <img class="col one" src="http://mirrors.creativecommons.org/presskit/icons/nc.svg"/>
+  <img class="col one" src="http://mirrors.creativecommons.org/presskit/icons/sa.svg"/>
+</div>
+<div>
+  <img src="http://mirrors.creativecommons.org/presskit/icons/by.svg"/>
+  <img class="col one" src="http://mirrors.creativecommons.org/presskit/icons/nc.svg"/>
+  <img class="col one" src="http://mirrors.creativecommons.org/presskit/icons/sa.svg"/>
+</div>
+<br>
 TLDR: This site’s code is licensed under the MIT license, and the images/blog content are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License.
-
+<br>
 <hr>
 <br>
 <br>
 You can do whatever you want to the code (the jekyll framework/ template excluding my own images and blog content) as long as you include the original copyright and license notice in any copy of the software/source.
 
 <a href="https://tldrlegal.com/license/mit-license" target="_blank">More Info</a> | <a href="https://opensource.org/licenses/MIT" target="_blank">Full License</a>  | <a href="https://opensource.org/licenses/MIT" target="_blank">Theme Download</a>
-
+<br>
 <hr>
 <br>
 
