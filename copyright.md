@@ -14,11 +14,11 @@ sitemap: main
 </div>
 <br>
 <br>
-<div class="img_row">
+<span class="contacticon center">
   <img src="http://mirrors.creativecommons.org/presskit/icons/by.svg"/>
   <img src="http://mirrors.creativecommons.org/presskit/icons/nc.svg"/>
   <img src="http://mirrors.creativecommons.org/presskit/icons/sa.svg"/>
-</div>
+</span>
 <br>
 <br>
 <div>
