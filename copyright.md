@@ -5,7 +5,7 @@ permalink: /copyright/
 description: Copyright info.
 sitemap: main
 ---
-<h3>Copyright&nbsp;©{{ site.time | date: '%Y' }} {{ site.name }} Some&nbsp;Rights&nbsp;Reserved</h3> 
+<h3>Copyright&nbsp;©{{ site.time | date: '%Y' }} {{ site.name | replace:' ','&nbsp;' }} Some&nbsp;Rights&nbsp;Reserved</h3> 
 <br>
 <span class="contacticon center">
   <img src="http://mirrors.creativecommons.org/presskit/icons/cc.svg"/>
