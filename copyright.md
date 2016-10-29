@@ -20,14 +20,14 @@ img: http://mirrors.creativecommons.org/presskit/icons/cc.svg
 <hr>
 <br>
 <br>
-You can do whatever you want to the code (the jekyll framework/ template excluding my own images and blog content) as long as you include the original copyright and license notice in any copy of the software/source.
+**Code TLDR:**You can do whatever you want to the code (the jekyll framework/ template excluding my own images and blog content) as long as you include the original copyright and license notice in any copy of the software/source.
 
 <a href="https://tldrlegal.com/license/mit-license" target="_blank">More Info</a> | <a href="https://opensource.org/licenses/MIT" target="_blank">Full License</a>  | <a href="https://opensource.org/licenses/MIT" target="_blank">Theme Download</a>
 <br>
 <hr>
 <br>
 
-You can share, copy, and redistribute the images/blog content in any medium or format. You can adapt, remix, transform, and build upon the material. But you can only do so under the following conditions:
+**Image and Content TLDR:**You can share, copy, and redistribute the images/blog content in any medium or format. You can adapt, remix, transform, and build upon the material. But you can only do so under the following conditions:
 
 - Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 - NonCommercial — You may not use the material for commercial purposes.
