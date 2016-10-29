@@ -538,16 +538,23 @@ bottom:0px;
   font-size: 12px; }
 
 /** 
- * Misc
+ * Video
 **********************************************************
 */
-/*
-.badkern { 
-    letter-spacing: -0.17em; 
-    display:block;
-    margin: 10px;
-}
-*/
+.videoWrapper {
+  position: relative;
+  padding-bottom: 56.25%;
+  /* 16:9 */
+  padding-top: 25px;
+  height: 0; }
+
+.videoWrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%; }
+
 /**
  * Syntax highlighting styles
  */
