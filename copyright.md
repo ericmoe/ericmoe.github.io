@@ -23,8 +23,8 @@ sitemap: main
 <br>
 <div>
   <img src="http://mirrors.creativecommons.org/presskit/icons/by.svg"/>
-  <img class="col one" src="http://mirrors.creativecommons.org/presskit/icons/nc.svg"/>
-  <img class="col one" src="http://mirrors.creativecommons.org/presskit/icons/sa.svg"/>
+  <img src="http://mirrors.creativecommons.org/presskit/icons/nc.svg"/>
+  <img src="http://mirrors.creativecommons.org/presskit/icons/sa.svg"/>
 </div>
 <br>
 <br>
