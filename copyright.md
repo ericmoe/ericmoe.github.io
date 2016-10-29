@@ -7,26 +7,12 @@ sitemap: main
 ---
 # Copyright ©{{ site.time | date: '%Y' }} {{ site.name }} Some Rights Reserved 
 <br>
-<div class="img_row">
-  <img class="col one" src="http://mirrors.creativecommons.org/presskit/icons/by.svg"/>
-  <img class="col one" src="http://mirrors.creativecommons.org/presskit/icons/nc.svg"/>
-  <img class="col one" src="http://mirrors.creativecommons.org/presskit/icons/sa.svg"/>
-</div>
-<br>
-<br>
 <span class="contacticon center">
+  <img src="http://mirrors.creativecommons.org/presskit/icons/cc.svg"/>
   <img src="http://mirrors.creativecommons.org/presskit/icons/by.svg"/>
   <img src="http://mirrors.creativecommons.org/presskit/icons/nc.svg"/>
   <img src="http://mirrors.creativecommons.org/presskit/icons/sa.svg"/>
 </span>
-<br>
-<br>
-<div>
-  <img src="http://mirrors.creativecommons.org/presskit/icons/by.svg"/>
-  <img src="http://mirrors.creativecommons.org/presskit/icons/nc.svg"/>
-  <img src="http://mirrors.creativecommons.org/presskit/icons/sa.svg"/>
-</div>
-<br>
 <br>
 TLDR: This site’s code is licensed under the MIT license, and the images/blog content are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License.
 <br>
@@ -51,19 +37,25 @@ You can share, copy, and redistribute the images/blog content in any medium or f
 <hr>
 <br/>
 
-# The MIT License (MIT)
+# Code License
+**The MIT License (MIT)**
 Copyright ©{{ site.time | date: '%Y' }} {{ site.name }}
+
+**Applies to all project files that are not a part of the Image and Content License.**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
+<br>
 <hr>
 <br>
-<br>
-# Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
+# Image and Content License 
+**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License**
+Copyright ©{{ site.time | date: '%Y' }} {{ site.name }}
+
+**Applies to all image files and blog content**
 
 By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
 
