@@ -60,3 +60,18 @@ The code is simple. Just add a col class to your image, and another class specif
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wBqM2ytqHY4" frameborder="0" allowfullscreen></iframe>
 </div>
+
+<br/>
+    
+    <iframe 
+        width="560" 
+        height="315" src="https://www.youtube.com/embed/wBqM2ytqHY4" 
+        frameborder="0" 
+        allowfullscreen>
+    </iframe>
+
+<br/>
+
+<div class="videoWrapper">
+<iframe src="https://player.vimeo.com/video/169599296?color=949494&title=0&byline=0&portrait=0&badge=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
