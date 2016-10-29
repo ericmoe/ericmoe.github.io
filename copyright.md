@@ -4,6 +4,7 @@ title: COPYRIGHT
 permalink: /copyright/
 description: Copyright info.
 sitemap: main
+img: http://mirrors.creativecommons.org/presskit/icons/cc.svg
 ---
 <h3>Copyright&nbsp;©{{ site.time | date: '%Y' }} {{ site.name }} Some&nbsp;Rights&nbsp;Reserved</h3> 
 <br>
@@ -56,7 +57,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 <h4>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License</h4>
 Copyright ©{{ site.time | date: '%Y' }} {{ site.name }}
 
-# **Applies to all image files and blog content**
+<h4>*Applies to all image files and blog content</h4>
 <br>
 By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
 
