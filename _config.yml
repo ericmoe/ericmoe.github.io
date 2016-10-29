@@ -67,4 +67,6 @@ collections:
 
 gems: [jekyll-paginate]
 
-
+# sass
+sass:
+  style: compressed
