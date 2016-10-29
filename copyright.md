@@ -5,7 +5,7 @@ permalink: /copyright/
 description: Copyright info.
 sitemap: main
 ---
-# Copyright ©{{ site.time | date: '%Y' }} {{ site.name }} Some Rights Reserved 
+<h3>Copyright ©{{ site.time | date: '%Y' }} {{ site.name }} Some Rights Reserved</h3> 
 <br>
 <span class="contacticon center">
   <img src="http://mirrors.creativecommons.org/presskit/icons/cc.svg"/>
@@ -37,11 +37,12 @@ You can share, copy, and redistribute the images/blog content in any medium or f
 <hr>
 <br/>
 
-# Code License
-**The MIT License (MIT)**
+<h3>Code License</h3>
+<h4>The MIT License (MIT)</h4>
+
 Copyright ©{{ site.time | date: '%Y' }} {{ site.name }}
 
-**Applies to all project files that are not a part of the Image and Content License.**
+<h3>Applies to all project files that are not a part of the Image and Content License.</h3>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -51,11 +52,11 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 <br>
 <hr>
 <br>
-# Image and Content License 
+<h3>Image and Content License</h3> 
 **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License**
 Copyright ©{{ site.time | date: '%Y' }} {{ site.name }}
 
-**Applies to all image files and blog content**
+<h3>Applies to all image files and blog content</h3>
 
 By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
 
